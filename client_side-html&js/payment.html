@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>עגלה</title>
+    <!-- <link rel="stylesheet" href="style.css" media="screen" title="no title" charset="utf-8"> -->
+    <script src="https://code.jquery.com/jquery-2.2.4.js" charset="utf-8"></script>
+    <meta name="robots" content="noindex,follow" />
+    <link rel="shortcut icon" href="https://www.netivim.org.il/content/images/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="about.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="media.css">
+    <link rel="stylesheet" href="payment.css">
+    <link rel="stylesheet" href="footer.css">
+    <script src="script.js"></script>
+</head>
+
+<body id="bod" onload="init()">
+    <div id="container">
+        <header id="stick">
+            <a href="cart.html" id="cart">
+                <img src="assets/סל קניות.png" alt="">
+                <a href="" id="user"></a>
+            </a>
+            <a href="user.html">
+                <figure id="logo">
+                    <img src="https://www.netivim.org.il/content/images/logo.png" alt="">
+                </figure>
+            </a>
+            <nav>
+                <ul id="add">
+                    <li>
+                        <a href="about.html">מי אנחנו</a>
+                    </li>
+                    <li class="drop">
+                        <a class="deop-header" href="index.html" id="join">הרשמה / התחברות</a>
+                    </li>
+                    <li class="drop">
+                        <a class="deop-header" href="event.html">אירועים</a>
+                    </li>
+                    <li>
+                        <a href="messege.html" id="change">צור קשר</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <div class="row">
+            <div class="col-75">
+                <div class="container">
+                    <form action="/action_page.php">
+                        <div class="row">
+                            <div class="col-50">
+                                <h3>כתובת לחיוב</h3>
+                                <label for="fname"><i class="fa fa-user"></i>שם בעל הכרטיס</label>
+                                <input type="text" id="fname" name="firstname" placeholder="John M. Doe" required>
+                                <label for="email"><i class="fa fa-envelope"></i>מייל</label>
+                                <input type="text" id="email" name="email" placeholder="john@example.com" required>
+                            </div>
+
+                            <div class="col-50">
+                                <h3><label for="fname">תשלום בכרטיסים מקובלים</label></h3>
+                                <div class="icon-container">
+                                    <i class="fa fa-cc-visa" style="color:navy;"></i>
+                                    <i class="fa fa-cc-amex" style="color:blue;"></i>
+                                    <i class="fa fa-cc-mastercard" style="color:red;"></i>
+                                    <i class="fa fa-cc-discover" style="color:orange;"></i>
+                                </div>
+                                <label for="cname">שם בעל הכרטיס</label>
+                                <input type="text" id="cname" name="cardname" placeholder="John More Doe" required>
+                                <label for="ccnum">מספר הכרטיס</label>
+                                <input type="text" id="ccnum" name="cardnumber" placeholder="1111-2222-3333-4444"
+                                    required>
+
+                                <div class="row">
+                                    <div class="col-50">
+                                        <label for="expyear">תוקף</label>
+                                        <input type="month" id="expyear" name="expyear" min="2023-07" value="2023-10" required>
+                                    </div>
+                                    <div class="col-50">
+                                        <label for="cvv">CVV</label>
+                                        <input type="text" id="cvv" name="cvv" placeholder="352" required>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- <a href="sucsess.html"> -->
+                        <input type="submit" value="לתשלום" class="btn" onclick="success()">
+                        <!-- </a> -->
+                    </form>
+                </div>
+            </div>
+        </div>
+        <footer>
+            <br>
+            &copy;tzofiya yosef
+            <br>
+            <br>
+        </footer>
+</body>
+
+</html>

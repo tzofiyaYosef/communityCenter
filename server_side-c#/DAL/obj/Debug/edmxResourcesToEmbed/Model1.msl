@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CommunityCenterDBModelStoreContainer" CdmEntityContainer="CommunityCenterDBEntities">
+    <EntitySetMapping Name="Contacts">
+      <EntityTypeMapping TypeName="CommunityCenterDBModel.Contact">
+        <MappingFragment StoreEntitySet="Contacts">
+          <ScalarProperty Name="contactId" ColumnName="contactId" />
+          <ScalarProperty Name="Question" ColumnName="Question" />
+          <ScalarProperty Name="Answer" ColumnName="Answer" />
+          <ScalarProperty Name="GmailId" ColumnName="GmailId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="CommunityCenterDBModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="Gmail" ColumnName="Gmail" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MainEvents">
+      <EntityTypeMapping TypeName="CommunityCenterDBModel.MainEvent">
+        <MappingFragment StoreEntitySet="MainEvent">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="EventDate" ColumnName="EventDate" />
+          <ScalarProperty Name="NumOfParticipance" ColumnName="NumOfParticipance" />
+          <ScalarProperty Name="CostPerParticipance" ColumnName="CostPerParticipance" />
+          <ScalarProperty Name="EventCost" ColumnName="EventCost" />
+          <ScalarProperty Name="MinAge" ColumnName="MinAge" />
+          <ScalarProperty Name="MaxAge" ColumnName="MaxAge" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MainEventToCustomers">
+      <EntityTypeMapping TypeName="CommunityCenterDBModel.MainEventToCustomer">
+        <MappingFragment StoreEntitySet="MainEventToCustomer">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdEvent" ColumnName="IdEvent" />
+          <ScalarProperty Name="IdCustomer" ColumnName="IdCustomer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Manegers">
+      <EntityTypeMapping TypeName="CommunityCenterDBModel.Maneger">
+        <MappingFragment StoreEntitySet="Maneger">
+          <ScalarProperty Name="Gmail" ColumnName="Gmail" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="People">
+      <EntityTypeMapping TypeName="CommunityCenterDBModel.Person">
+        <MappingFragment StoreEntitySet="Person">
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Gmail" ColumnName="Gmail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Salaries">
+      <EntityTypeMapping TypeName="CommunityCenterDBModel.Salary">
+        <MappingFragment StoreEntitySet="Salary">
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Bonus" ColumnName="Bonus" />
+          <ScalarProperty Name="Hour" ColumnName="Hour" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Speaches">
+      <EntityTypeMapping TypeName="CommunityCenterDBModel.Speach">
+        <MappingFragment StoreEntitySet="Speaches">
+          <ScalarProperty Name="EventId" ColumnName="EventId" />
+          <ScalarProperty Name="NameLecturer" ColumnName="NameLecturer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Trips">
+      <EntityTypeMapping TypeName="CommunityCenterDBModel.Trip">
+        <MappingFragment StoreEntitySet="Trip">
+          <ScalarProperty Name="LeavingTime" ColumnName="LeavingTime" />
+          <ScalarProperty Name="ReturnTime" ColumnName="ReturnTime" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="EventId" ColumnName="EventId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

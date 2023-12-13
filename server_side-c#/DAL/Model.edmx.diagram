@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1ecb9dd635c14e098965f2d8f9727334" Name="Diagram1">
+        <EntityTypeShape EntityType="CommunityCenterDBModel.Contact" Width="1.5" PointX="3" PointY="15.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunityCenterDBModel.Customer" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunityCenterDBModel.MainEvent" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunityCenterDBModel.MainEventToCustomer" Width="1.5" PointX="3" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunityCenterDBModel.Maneger" Width="1.5" PointX="3.75" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunityCenterDBModel.Person" Width="1.5" PointX="1.5" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunityCenterDBModel.Speach" Width="1.5" PointX="3" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunityCenterDBModel.Trip" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <AssociationConnector Association="CommunityCenterDBModel.FK_Contacts_ToCustomer" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunityCenterDBModel.FK_Customer_ToPerson" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunityCenterDBModel.FK_MainEventToCustomer_ToCustomer" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunityCenterDBModel.FK_MainEventToCustomer_ToMainEvent" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunityCenterDBModel.FK_Speaches_ToSpeaches" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunityCenterDBModel.FK_Trip_ToMainEvent" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunityCenterDBModel.FK_Maneger_ToPerson" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

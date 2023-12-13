@@ -1,0 +1,28 @@
+footer {
+    position: fixed !important;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.button {
+    background-color: rgba(79, 133, 154, 0.692);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 5%;
+}
+
+.one{
+    direction: rtl;
+    margin-left: 30%;
+}
+
+.tow{
+    direction: ltr;
+    margin-left: 5%;
+}

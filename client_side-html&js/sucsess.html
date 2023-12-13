@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>תשלום</title>
+    <!-- <link rel="stylesheet" href="style.css" media="screen" title="no title" charset="utf-8"> -->
+    <script src="https://code.jquery.com/jquery-2.2.4.js" charset="utf-8"></script>
+    <meta name="robots" content="noindex,follow" />
+    <link rel="shortcut icon" href="https://www.netivim.org.il/content/images/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="about.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="footer.css">
+    <script src="script.js"></script>
+    <style>
+        #loader {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            z-index: 1;
+            width: 120px;
+            height: 120px;
+            margin: -76px 0 0 -76px;
+            border: 16px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 16px solid #3498db;
+            -webkit-animation: spin 2s linear infinite;
+            animation: spin 2s linear infinite;
+        }
+
+        @-webkit-keyframes spin {
+            0% {
+                -webkit-transform: rotate(0deg);
+            }
+
+            100% {
+                -webkit-transform: rotate(360deg);
+            }
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Add animation to "page content" */
+        .animate-bottom {
+            position: relative;
+            -webkit-animation-name: animatebottom;
+            -webkit-animation-duration: 1s;
+            animation-name: animatebottom;
+            animation-duration: 1s
+        }
+
+        @-webkit-keyframes animatebottom {
+            from {
+                bottom: -100px;
+                opacity: 0
+            }
+
+            to {
+                bottom: 0px;
+                opacity: 1
+            }
+        }
+
+        @keyframes animatebottom {
+            from {
+                bottom: -100px;
+                opacity: 0
+            }
+
+            to {
+                bottom: 0;
+                opacity: 1
+            }
+        }
+
+        #myDiv {
+            display: none;
+            text-align: center;
+            margin-top: 20%;
+        }
+    </style>
+</head>
+
+<body id="bod" onload="myFunction()">
+    <div id="container">
+        <header id="stick">
+            <a href="cart.html" id="cart">
+                <img src="assets/סל קניות.png" alt="">
+                <a href="" id="user"></a>
+            </a>
+            <a href="user.html">
+                <figure id="logo">
+                    <img src="https://www.netivim.org.il/content/images/logo.png" alt="">
+                </figure>
+            </a>
+            <nav>
+                <ul id="add">
+                    <li>
+                        <a href="about.html">מי אנחנו</a>
+                    </li>
+                    <li class="drop">
+                        <a class="deop-header" href="index.html" id="join">הרשמה / התחברות</a>
+                    </li>
+                    <li class="drop">
+                        <a class="deop-header" href="event.html">אירועים</a>
+                    </li>
+                    <li>
+                        <a href="messege.html" id="change">צור קשר</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <div id="loader"></div>
+        <div style="display:none;" id="myDiv" class="animate-bottom">
+            <h2>התשלום הצליח</h2>
+            <a href="user.html">חזרה לדף הבית</a>
+        </div>
+        <footer>
+            <br>
+            &copy;tzofiya yosef
+            <br>
+            <br>
+        </footer>
+        <script>
+            var myVar;
+
+            function myFunction() {
+                init()
+                myVar = setTimeout(showPage, 3000);
+            }
+
+            function showPage() {
+                document.getElementById("loader").style.display = "none";
+                document.getElementById("myDiv").style.display = "block";
+            }
+        </script>
+</body>
+
+</html>

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>מנהל המערכת</title>
+    <link rel="shortcut icon" href="https://www.netivim.org.il/content/images/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="indexx.css">
+    <link rel="stylesheet" href="media.css">
+    <link rel="stylesheet" href="manager.css">
+    <link rel="stylesheet" href="prophil.css">
+    <script src="manager.js"></script>
+</head>
+
+<body onload="init()">
+    <div id="container">
+        <header id="stick">
+            <a href="" id="user"></a>
+            <a href="manager.html">
+                <figure id="logo">
+                    <img src="https://www.netivim.org.il/content/images/logo.png" alt="">
+                </figure>
+            </a>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.html" id="join">התחברות</a>
+                    </li>
+                    <li>
+                        <a href="manegerEvent.html">הוספה אירוע</a>
+                    </li>
+                    <li>
+                        <a href="newManager.html">הוספת מנהל</a>
+                    </li>
+                    <li class="drop">
+                        <a class="deop-header" href="managerAllEvaents.html">הצגת כל האירועים</a>
+                    </li>
+                    <li class="drop">
+                        <a class="deop-header" href="allQoustion.html">פניות הציבור</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <div class="row" id="contact"> </div>
+    </div>
+    <div class="containerPlace diff">
+        <form action="/action_page.php">
+            <div class="row">
+                <div class="col">
+                    <input type="text" id="0" placeholder="שם האירוע" required>
+                    <input type="date" id="2" placeholder="תאריך" required>
+                    <input type="time" id="appt" name="appt" required>
+                    <input type="text" id="3" placeholder="מספר משתתפים" required>
+                    <input type="text" id="4" placeholder="עלות למשתתף" required>
+                    <input type="text" id="5" placeholder="עלות האירוע" required>
+                    <input type="text" id="6" placeholder="גיל מינימלי" required>
+                    <input type="text" id="7" placeholder="גיל מקסימלי" required>
+                    <select id="8" class="gender">
+                        <option value="audi">בחר מגדר</option>
+                        <option value="1">נשים ונערות</option>
+                        <option value="2">גברים</option>
+                        <option value="3">ילדות</option>
+                        <option value="4">ילדים</option>
+                        <option value="5">משפחות</option>
+                        <option value="6">זוגות</option>
+                    </select>
+                    <input type="text" id="9" placeholder="שם מרצה" required>
+                    <!-- <input type="text" id="1" class="diffrent" placeholder="תיאור אירוע..." required> -->
+                    <textarea id="1" class="diffrent" name="subject" placeholder="תיאור אירוע..." cols="40"></textarea>
+                    <form id="add" action="" onsubmit="return false">
+                        <input type="file" id="myFile" name="filename" onchange="raise(event, 'speacheImg', 1)">
+                        <input type="button" id="signUp" value="הוסף הרצאה" onclick="addNewEvent()">
+                    </form>
+                    <!-- <input type="button" id="signUp" value="הוסף אירוע" onclick="addNewEvent()"> -->
+                    <br>
+                </div>
+                <div id="ex">
+                    <div class="row">
+                        <div class="col">
+                            <a href="index.html" style="color:white" class="btn"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <footer>
+        <br>
+        &copy;tzofiya yosef
+        <br>
+        <br>
+    </footer>
+</body>
+
+</html>

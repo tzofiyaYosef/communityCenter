@@ -1,0 +1,62 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  text-align: center;
+  font-family: arial;
+  display: inline-block;
+  padding: 5px;
+  direction: rtl;
+}
+
+.card2{
+  display: inline-flex;
+  margin: 1% 0.5% 1% 0.5%;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: black;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 25px;
+}
+
+.imgEvevt {
+  margin-top: 0 !important;
+  width: 290px !important;
+  height: 230px !important;
+}
+
+.pic {
+  position: relative;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.date {
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  padding: 1rem;
+  background: rgba(20, 96, 126, 0.692);
+  color: white;
+  z-index: 9;
+  border-radius: 0px 0px 15px 15px
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+div h1 {
+  color: rgba(20, 96, 126, 0.692) !important;
+  font-weight: bolder !important;
+  font-size: xx-large !important;
+}
+
+div h2, p, h3{
+  color: black;
+}

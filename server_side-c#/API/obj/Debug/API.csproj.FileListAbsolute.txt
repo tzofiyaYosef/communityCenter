@@ -1,0 +1,1451 @@
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\API.dll.config
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\API.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\API.pdb
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\csc.exe
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\csc.exe.config
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\csc.rsp
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\csi.exe
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\csi.exe.config
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\csi.rsp
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\Microsoft.Managed.Core.targets
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.AppContext.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Collections.Immutable.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Console.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Globalization.Calendars.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Net.Http.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Net.Sockets.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Reflection.Metadata.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.ValueTuple.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Xml.XmlDocument.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\vbc.exe
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\vbc.exe.config
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\vbc.rsp
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe.config
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\Antlr3.Runtime.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\Microsoft.Web.Infrastructure.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\Newtonsoft.Json.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.Helpers.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.Http.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.Mvc.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.Optimization.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.Razor.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.WebPages.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\WebGrease.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\Newtonsoft.Json.xml
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.xml
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.Helpers.xml
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.Http.xml
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.xml
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.Mvc.xml
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.Optimization.xml
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.Razor.xml
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.WebPages.xml
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.xml
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.xml
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\Antlr3.Runtime.pdb
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\obj\Debug\API.csproj.AssemblyReference.cache
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\obj\Debug\API.csproj.CopyComplete
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\obj\Debug\API.dll
+W:\תכנות שנה ב תשפג\c#\tzofiya yosef\server\API\obj\Debug\API.pdb
+C:\Users\Comp10\Desktop\server\API\bin\API.dll.config
+C:\Users\Comp10\Desktop\server\API\bin\API.dll
+C:\Users\Comp10\Desktop\server\API\bin\API.pdb
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\csc.exe
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\csc.exe.config
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\csc.rsp
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\csi.exe
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\csi.exe.config
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\csi.rsp
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.AppContext.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Console.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Net.Http.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\vbc.exe
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\vbc.exe.config
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\vbc.rsp
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Comp10\Desktop\server\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Comp10\Desktop\server\API\bin\Antlr3.Runtime.dll
+C:\Users\Comp10\Desktop\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Comp10\Desktop\server\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Comp10\Desktop\server\API\bin\Newtonsoft.Json.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Net.Http.Formatting.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Cors.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Helpers.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Http.Cors.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Http.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Http.WebHost.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Mvc.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Optimization.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Razor.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.WebPages.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Comp10\Desktop\server\API\bin\WebGrease.dll
+C:\Users\Comp10\Desktop\server\API\bin\System.Net.Http.Formatting.xml
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Http.xml
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Http.Cors.xml
+C:\Users\Comp10\Desktop\server\API\bin\Newtonsoft.Json.xml
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Helpers.xml
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Http.WebHost.xml
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Mvc.xml
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Optimization.xml
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.Razor.xml
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.WebPages.xml
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Comp10\Desktop\server\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Comp10\Desktop\server\API\bin\Antlr3.Runtime.pdb
+C:\Users\Comp10\Desktop\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Comp10\Desktop\server\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\Comp10\Desktop\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\Comp10\Desktop\server\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\Comp10\Desktop\server\API\obj\Debug\API.dll
+C:\Users\Comp10\Desktop\server\API\obj\Debug\API.pdb
+C:\Users\Comp10\Desktop\server\API\bin\BLL.dll
+C:\Users\Comp10\Desktop\server\API\bin\DTO.dll
+C:\Users\Comp10\Desktop\server\API\bin\DAL.dll
+C:\Users\Comp10\Desktop\server\API\bin\BLL.pdb
+C:\Users\Comp10\Desktop\server\API\bin\DTO.pdb
+C:\Users\Comp10\Desktop\server\API\bin\DAL.pdb
+W:\tzofiya yosef\server\API\bin\API.dll.config
+W:\tzofiya yosef\server\API\bin\API.dll
+W:\tzofiya yosef\server\API\bin\API.pdb
+W:\tzofiya yosef\server\API\bin\roslyn\csc.exe
+W:\tzofiya yosef\server\API\bin\roslyn\csc.exe.config
+W:\tzofiya yosef\server\API\bin\roslyn\csc.rsp
+W:\tzofiya yosef\server\API\bin\roslyn\csi.exe
+W:\tzofiya yosef\server\API\bin\roslyn\csi.exe.config
+W:\tzofiya yosef\server\API\bin\roslyn\csi.rsp
+W:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Managed.Core.targets
+W:\tzofiya yosef\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.AppContext.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Collections.Immutable.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Console.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Globalization.Calendars.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Net.Http.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Net.Sockets.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Reflection.Metadata.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.ValueTuple.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XmlDocument.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.dll
+W:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+W:\tzofiya yosef\server\API\bin\roslyn\vbc.exe
+W:\tzofiya yosef\server\API\bin\roslyn\vbc.exe.config
+W:\tzofiya yosef\server\API\bin\roslyn\vbc.rsp
+W:\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe
+W:\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe.config
+W:\tzofiya yosef\server\API\bin\Antlr3.Runtime.dll
+W:\tzofiya yosef\server\API\bin\BLL.dll
+W:\tzofiya yosef\server\API\bin\DTO.dll
+W:\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\tzofiya yosef\server\API\bin\Microsoft.Web.Infrastructure.dll
+W:\tzofiya yosef\server\API\bin\Newtonsoft.Json.dll
+W:\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.dll
+W:\tzofiya yosef\server\API\bin\System.Web.Cors.dll
+W:\tzofiya yosef\server\API\bin\System.Web.Helpers.dll
+W:\tzofiya yosef\server\API\bin\System.Web.Http.Cors.dll
+W:\tzofiya yosef\server\API\bin\System.Web.Http.dll
+W:\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.dll
+W:\tzofiya yosef\server\API\bin\System.Web.Mvc.dll
+W:\tzofiya yosef\server\API\bin\System.Web.Optimization.dll
+W:\tzofiya yosef\server\API\bin\System.Web.Razor.dll
+W:\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.dll
+W:\tzofiya yosef\server\API\bin\System.Web.WebPages.dll
+W:\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.dll
+W:\tzofiya yosef\server\API\bin\WebGrease.dll
+W:\tzofiya yosef\server\API\bin\DAL.dll
+W:\tzofiya yosef\server\API\bin\BLL.pdb
+W:\tzofiya yosef\server\API\bin\DTO.pdb
+W:\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.xml
+W:\tzofiya yosef\server\API\bin\System.Web.Http.xml
+W:\tzofiya yosef\server\API\bin\System.Web.Http.Cors.xml
+W:\tzofiya yosef\server\API\bin\Newtonsoft.Json.xml
+W:\tzofiya yosef\server\API\bin\System.Web.Helpers.xml
+W:\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.xml
+W:\tzofiya yosef\server\API\bin\System.Web.Mvc.xml
+W:\tzofiya yosef\server\API\bin\System.Web.Optimization.xml
+W:\tzofiya yosef\server\API\bin\System.Web.Razor.xml
+W:\tzofiya yosef\server\API\bin\System.Web.WebPages.xml
+W:\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.xml
+W:\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.xml
+W:\tzofiya yosef\server\API\bin\Antlr3.Runtime.pdb
+W:\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\tzofiya yosef\server\API\bin\DAL.pdb
+W:\tzofiya yosef\server\API\obj\Debug\API.csproj.AssemblyReference.cache
+W:\tzofiya yosef\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+W:\tzofiya yosef\server\API\obj\Debug\API.csproj.CopyComplete
+W:\tzofiya yosef\server\API\obj\Debug\API.dll
+W:\tzofiya yosef\server\API\obj\Debug\API.pdb
+F:\tzofiya yosef\server\API\bin\API.dll.config
+F:\tzofiya yosef\server\API\bin\API.dll
+F:\tzofiya yosef\server\API\bin\API.pdb
+F:\tzofiya yosef\server\API\bin\roslyn\csc.exe
+F:\tzofiya yosef\server\API\bin\roslyn\csc.exe.config
+F:\tzofiya yosef\server\API\bin\roslyn\csc.rsp
+F:\tzofiya yosef\server\API\bin\roslyn\csi.exe
+F:\tzofiya yosef\server\API\bin\roslyn\csi.exe.config
+F:\tzofiya yosef\server\API\bin\roslyn\csi.rsp
+F:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Managed.Core.targets
+F:\tzofiya yosef\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.AppContext.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Collections.Immutable.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Console.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Globalization.Calendars.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Net.Http.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Net.Sockets.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Reflection.Metadata.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.ValueTuple.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XmlDocument.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.dll
+F:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\tzofiya yosef\server\API\bin\roslyn\vbc.exe
+F:\tzofiya yosef\server\API\bin\roslyn\vbc.exe.config
+F:\tzofiya yosef\server\API\bin\roslyn\vbc.rsp
+F:\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe
+F:\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe.config
+F:\tzofiya yosef\server\API\bin\Antlr3.Runtime.dll
+F:\tzofiya yosef\server\API\bin\BLL.dll
+F:\tzofiya yosef\server\API\bin\DTO.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.Web.Infrastructure.dll
+F:\tzofiya yosef\server\API\bin\Newtonsoft.Json.dll
+F:\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.dll
+F:\tzofiya yosef\server\API\bin\System.Web.Cors.dll
+F:\tzofiya yosef\server\API\bin\System.Web.Helpers.dll
+F:\tzofiya yosef\server\API\bin\System.Web.Http.Cors.dll
+F:\tzofiya yosef\server\API\bin\System.Web.Http.dll
+F:\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.dll
+F:\tzofiya yosef\server\API\bin\System.Web.Mvc.dll
+F:\tzofiya yosef\server\API\bin\System.Web.Optimization.dll
+F:\tzofiya yosef\server\API\bin\System.Web.Razor.dll
+F:\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.dll
+F:\tzofiya yosef\server\API\bin\System.Web.WebPages.dll
+F:\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.dll
+F:\tzofiya yosef\server\API\bin\WebGrease.dll
+F:\tzofiya yosef\server\API\bin\DAL.dll
+F:\tzofiya yosef\server\API\bin\BLL.pdb
+F:\tzofiya yosef\server\API\bin\DTO.pdb
+F:\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.xml
+F:\tzofiya yosef\server\API\bin\System.Web.Http.xml
+F:\tzofiya yosef\server\API\bin\System.Web.Http.Cors.xml
+F:\tzofiya yosef\server\API\bin\Newtonsoft.Json.xml
+F:\tzofiya yosef\server\API\bin\System.Web.Helpers.xml
+F:\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.xml
+F:\tzofiya yosef\server\API\bin\System.Web.Mvc.xml
+F:\tzofiya yosef\server\API\bin\System.Web.Optimization.xml
+F:\tzofiya yosef\server\API\bin\System.Web.Razor.xml
+F:\tzofiya yosef\server\API\bin\System.Web.WebPages.xml
+F:\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.xml
+F:\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.xml
+F:\tzofiya yosef\server\API\bin\Antlr3.Runtime.pdb
+F:\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\tzofiya yosef\server\API\bin\DAL.pdb
+F:\tzofiya yosef\server\API\obj\Debug\API.csproj.AssemblyReference.cache
+F:\tzofiya yosef\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+F:\tzofiya yosef\server\API\obj\Debug\API.csproj.CopyComplete
+F:\tzofiya yosef\server\API\obj\Debug\API.dll
+F:\tzofiya yosef\server\API\obj\Debug\API.pdb
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\API.dll.config
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\API.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\API.pdb
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\csc.exe
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\csc.exe.config
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\csc.rsp
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\csi.exe
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\csi.exe.config
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\csi.rsp
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.AppContext.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Console.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Net.Http.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\vbc.exe
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\vbc.exe.config
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\vbc.rsp
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Antlr3.Runtime.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\BLL.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\DTO.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.Options.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Buffers.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.ComponentModel.Annotations.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Memory.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Text.Encodings.Web.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Cors.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Helpers.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Http.Cors.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Http.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Mvc.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Optimization.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Razor.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.WebPages.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\WebGrease.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\DAL.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\BLL.pdb
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\DTO.pdb
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.Options.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Buffers.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Memory.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Text.Encodings.Web.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Http.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Http.Cors.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Newtonsoft.Json.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Helpers.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Mvc.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Optimization.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.Razor.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.WebPages.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Antlr3.Runtime.pdb
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\bin\DAL.pdb
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\obj\Debug\API.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\API\obj\Debug\API.pdb
+E:\tzofiya yosef\server\API\bin\API.dll.config
+E:\tzofiya yosef\server\API\bin\API.dll
+E:\tzofiya yosef\server\API\bin\API.pdb
+E:\tzofiya yosef\server\API\bin\roslyn\csc.exe
+E:\tzofiya yosef\server\API\bin\roslyn\csc.exe.config
+E:\tzofiya yosef\server\API\bin\roslyn\csc.rsp
+E:\tzofiya yosef\server\API\bin\roslyn\csi.exe
+E:\tzofiya yosef\server\API\bin\roslyn\csi.exe.config
+E:\tzofiya yosef\server\API\bin\roslyn\csi.rsp
+E:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Managed.Core.targets
+E:\tzofiya yosef\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.AppContext.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Collections.Immutable.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Console.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Globalization.Calendars.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Net.Http.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Net.Sockets.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Reflection.Metadata.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.ValueTuple.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.dll
+E:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\tzofiya yosef\server\API\bin\roslyn\vbc.exe
+E:\tzofiya yosef\server\API\bin\roslyn\vbc.exe.config
+E:\tzofiya yosef\server\API\bin\roslyn\vbc.rsp
+E:\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe
+E:\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe.config
+E:\tzofiya yosef\server\API\bin\Antlr3.Runtime.dll
+E:\tzofiya yosef\server\API\bin\BLL.dll
+E:\tzofiya yosef\server\API\bin\DTO.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Cors.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyModel.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.ObjectPool.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Options.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Primitives.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.Net.Http.Headers.dll
+E:\tzofiya yosef\server\API\bin\Microsoft.Web.Infrastructure.dll
+E:\tzofiya yosef\server\API\bin\Newtonsoft.Json.dll
+E:\tzofiya yosef\server\API\bin\System.Buffers.dll
+E:\tzofiya yosef\server\API\bin\System.ComponentModel.Annotations.dll
+E:\tzofiya yosef\server\API\bin\System.Diagnostics.DiagnosticSource.dll
+E:\tzofiya yosef\server\API\bin\System.Memory.dll
+E:\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.dll
+E:\tzofiya yosef\server\API\bin\System.Numerics.Vectors.dll
+E:\tzofiya yosef\server\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\tzofiya yosef\server\API\bin\System.Text.Encodings.Web.dll
+E:\tzofiya yosef\server\API\bin\System.Threading.Tasks.Extensions.dll
+E:\tzofiya yosef\server\API\bin\System.Web.Cors.dll
+E:\tzofiya yosef\server\API\bin\System.Web.Helpers.dll
+E:\tzofiya yosef\server\API\bin\System.Web.Http.Cors.dll
+E:\tzofiya yosef\server\API\bin\System.Web.Http.dll
+E:\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.dll
+E:\tzofiya yosef\server\API\bin\System.Web.Mvc.dll
+E:\tzofiya yosef\server\API\bin\System.Web.Optimization.dll
+E:\tzofiya yosef\server\API\bin\System.Web.Razor.dll
+E:\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.dll
+E:\tzofiya yosef\server\API\bin\System.Web.WebPages.dll
+E:\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.dll
+E:\tzofiya yosef\server\API\bin\WebGrease.dll
+E:\tzofiya yosef\server\API\bin\DAL.dll
+E:\tzofiya yosef\server\API\bin\BLL.pdb
+E:\tzofiya yosef\server\API\bin\DTO.pdb
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Cors.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.ObjectPool.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Options.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Primitives.xml
+E:\tzofiya yosef\server\API\bin\Microsoft.Net.Http.Headers.xml
+E:\tzofiya yosef\server\API\bin\System.Buffers.xml
+E:\tzofiya yosef\server\API\bin\System.Diagnostics.DiagnosticSource.xml
+E:\tzofiya yosef\server\API\bin\System.Memory.xml
+E:\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.xml
+E:\tzofiya yosef\server\API\bin\System.Numerics.Vectors.xml
+E:\tzofiya yosef\server\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\tzofiya yosef\server\API\bin\System.Text.Encodings.Web.xml
+E:\tzofiya yosef\server\API\bin\System.Threading.Tasks.Extensions.xml
+E:\tzofiya yosef\server\API\bin\System.Web.Http.xml
+E:\tzofiya yosef\server\API\bin\System.Web.Http.Cors.xml
+E:\tzofiya yosef\server\API\bin\Newtonsoft.Json.xml
+E:\tzofiya yosef\server\API\bin\System.Web.Helpers.xml
+E:\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.xml
+E:\tzofiya yosef\server\API\bin\System.Web.Mvc.xml
+E:\tzofiya yosef\server\API\bin\System.Web.Optimization.xml
+E:\tzofiya yosef\server\API\bin\System.Web.Razor.xml
+E:\tzofiya yosef\server\API\bin\System.Web.WebPages.xml
+E:\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.xml
+E:\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.xml
+E:\tzofiya yosef\server\API\bin\Antlr3.Runtime.pdb
+E:\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\tzofiya yosef\server\API\bin\DAL.pdb
+E:\tzofiya yosef\server\API\obj\Debug\API.csproj.AssemblyReference.cache
+E:\tzofiya yosef\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+E:\tzofiya yosef\server\API\obj\Debug\API.csproj.CopyComplete
+E:\tzofiya yosef\server\API\obj\Debug\API.dll
+E:\tzofiya yosef\server\API\obj\Debug\API.pdb
+D:\tzofiya yosef\server\API\obj\Debug\API.csproj.AssemblyReference.cache
+D:\tzofiya yosef\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\tzofiya yosef\server\API\obj\Debug\API.dll
+D:\tzofiya yosef\server\API\obj\Debug\API.pdb
+D:\tzofiya yosef\server\API\bin\API.dll.config
+D:\tzofiya yosef\server\API\bin\API.dll
+D:\tzofiya yosef\server\API\bin\API.pdb
+D:\tzofiya yosef\server\API\bin\roslyn\csc.exe
+D:\tzofiya yosef\server\API\bin\roslyn\csc.exe.config
+D:\tzofiya yosef\server\API\bin\roslyn\csc.rsp
+D:\tzofiya yosef\server\API\bin\roslyn\csi.exe
+D:\tzofiya yosef\server\API\bin\roslyn\csi.exe.config
+D:\tzofiya yosef\server\API\bin\roslyn\csi.rsp
+D:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\tzofiya yosef\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.AppContext.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Collections.Immutable.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Console.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Globalization.Calendars.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Net.Http.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Net.Sockets.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Reflection.Metadata.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.ValueTuple.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.dll
+D:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\tzofiya yosef\server\API\bin\roslyn\vbc.exe
+D:\tzofiya yosef\server\API\bin\roslyn\vbc.exe.config
+D:\tzofiya yosef\server\API\bin\roslyn\vbc.rsp
+D:\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe
+D:\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe.config
+D:\tzofiya yosef\server\API\bin\Antlr3.Runtime.dll
+D:\tzofiya yosef\server\API\bin\BLL.dll
+D:\tzofiya yosef\server\API\bin\DTO.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Cors.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyModel.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.ObjectPool.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Options.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Primitives.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.Net.Http.Headers.dll
+D:\tzofiya yosef\server\API\bin\Microsoft.Web.Infrastructure.dll
+D:\tzofiya yosef\server\API\bin\Newtonsoft.Json.dll
+D:\tzofiya yosef\server\API\bin\System.Buffers.dll
+D:\tzofiya yosef\server\API\bin\System.ComponentModel.Annotations.dll
+D:\tzofiya yosef\server\API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\tzofiya yosef\server\API\bin\System.Memory.dll
+D:\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.dll
+D:\tzofiya yosef\server\API\bin\System.Numerics.Vectors.dll
+D:\tzofiya yosef\server\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\tzofiya yosef\server\API\bin\System.Text.Encodings.Web.dll
+D:\tzofiya yosef\server\API\bin\System.Threading.Tasks.Extensions.dll
+D:\tzofiya yosef\server\API\bin\System.Web.Cors.dll
+D:\tzofiya yosef\server\API\bin\System.Web.Helpers.dll
+D:\tzofiya yosef\server\API\bin\System.Web.Http.Cors.dll
+D:\tzofiya yosef\server\API\bin\System.Web.Http.dll
+D:\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.dll
+D:\tzofiya yosef\server\API\bin\System.Web.Mvc.dll
+D:\tzofiya yosef\server\API\bin\System.Web.Optimization.dll
+D:\tzofiya yosef\server\API\bin\System.Web.Razor.dll
+D:\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.dll
+D:\tzofiya yosef\server\API\bin\System.Web.WebPages.dll
+D:\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.dll
+D:\tzofiya yosef\server\API\bin\WebGrease.dll
+D:\tzofiya yosef\server\API\bin\DAL.dll
+D:\tzofiya yosef\server\API\bin\BLL.pdb
+D:\tzofiya yosef\server\API\bin\DTO.pdb
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Cors.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.ObjectPool.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Options.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Primitives.xml
+D:\tzofiya yosef\server\API\bin\Microsoft.Net.Http.Headers.xml
+D:\tzofiya yosef\server\API\bin\System.Buffers.xml
+D:\tzofiya yosef\server\API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\tzofiya yosef\server\API\bin\System.Memory.xml
+D:\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.xml
+D:\tzofiya yosef\server\API\bin\System.Numerics.Vectors.xml
+D:\tzofiya yosef\server\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\tzofiya yosef\server\API\bin\System.Text.Encodings.Web.xml
+D:\tzofiya yosef\server\API\bin\System.Threading.Tasks.Extensions.xml
+D:\tzofiya yosef\server\API\bin\System.Web.Http.xml
+D:\tzofiya yosef\server\API\bin\System.Web.Http.Cors.xml
+D:\tzofiya yosef\server\API\bin\Newtonsoft.Json.xml
+D:\tzofiya yosef\server\API\bin\System.Web.Helpers.xml
+D:\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.xml
+D:\tzofiya yosef\server\API\bin\System.Web.Mvc.xml
+D:\tzofiya yosef\server\API\bin\System.Web.Optimization.xml
+D:\tzofiya yosef\server\API\bin\System.Web.Razor.xml
+D:\tzofiya yosef\server\API\bin\System.Web.WebPages.xml
+D:\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.xml
+D:\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.xml
+D:\tzofiya yosef\server\API\bin\Antlr3.Runtime.pdb
+D:\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\tzofiya yosef\server\API\bin\DAL.pdb
+D:\tzofiya yosef\server\API\obj\Debug\API.csproj.CopyComplete
+D:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Cors.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Features.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyModel.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.ObjectPool.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Options.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Primitives.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.Net.Http.Headers.dll
+F:\tzofiya yosef\server\API\bin\System.Buffers.dll
+F:\tzofiya yosef\server\API\bin\System.ComponentModel.Annotations.dll
+F:\tzofiya yosef\server\API\bin\System.Diagnostics.DiagnosticSource.dll
+F:\tzofiya yosef\server\API\bin\System.Memory.dll
+F:\tzofiya yosef\server\API\bin\System.Numerics.Vectors.dll
+F:\tzofiya yosef\server\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\tzofiya yosef\server\API\bin\System.Text.Encodings.Web.dll
+F:\tzofiya yosef\server\API\bin\System.Threading.Tasks.Extensions.dll
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Cors.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Features.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.ObjectPool.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Options.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Primitives.xml
+F:\tzofiya yosef\server\API\bin\Microsoft.Net.Http.Headers.xml
+F:\tzofiya yosef\server\API\bin\System.Buffers.xml
+F:\tzofiya yosef\server\API\bin\System.Diagnostics.DiagnosticSource.xml
+F:\tzofiya yosef\server\API\bin\System.Memory.xml
+F:\tzofiya yosef\server\API\bin\System.Numerics.Vectors.xml
+F:\tzofiya yosef\server\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\tzofiya yosef\server\API\bin\System.Text.Encodings.Web.xml
+F:\tzofiya yosef\server\API\bin\System.Threading.Tasks.Extensions.xml
+G:\tzofiya yosef\server\API\bin\API.dll.config
+G:\tzofiya yosef\server\API\bin\API.dll
+G:\tzofiya yosef\server\API\bin\API.pdb
+G:\tzofiya yosef\server\API\bin\roslyn\csc.exe
+G:\tzofiya yosef\server\API\bin\roslyn\csc.exe.config
+G:\tzofiya yosef\server\API\bin\roslyn\csc.rsp
+G:\tzofiya yosef\server\API\bin\roslyn\csi.exe
+G:\tzofiya yosef\server\API\bin\roslyn\csi.exe.config
+G:\tzofiya yosef\server\API\bin\roslyn\csi.rsp
+G:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\tzofiya yosef\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\tzofiya yosef\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Managed.Core.targets
+G:\tzofiya yosef\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\tzofiya yosef\server\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.AppContext.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Collections.Immutable.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Console.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Globalization.Calendars.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Net.Http.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Net.Sockets.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Reflection.Metadata.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.ValueTuple.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XmlDocument.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.dll
+G:\tzofiya yosef\server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\tzofiya yosef\server\API\bin\roslyn\vbc.exe
+G:\tzofiya yosef\server\API\bin\roslyn\vbc.exe.config
+G:\tzofiya yosef\server\API\bin\roslyn\vbc.rsp
+G:\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe
+G:\tzofiya yosef\server\API\bin\roslyn\VBCSCompiler.exe.config
+G:\tzofiya yosef\server\API\bin\Antlr3.Runtime.dll
+G:\tzofiya yosef\server\API\bin\BLL.dll
+G:\tzofiya yosef\server\API\bin\DTO.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Cors.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Features.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyModel.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.ObjectPool.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Options.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Primitives.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.Net.Http.Headers.dll
+G:\tzofiya yosef\server\API\bin\Microsoft.Web.Infrastructure.dll
+G:\tzofiya yosef\server\API\bin\Newtonsoft.Json.dll
+G:\tzofiya yosef\server\API\bin\System.Buffers.dll
+G:\tzofiya yosef\server\API\bin\System.ComponentModel.Annotations.dll
+G:\tzofiya yosef\server\API\bin\System.Diagnostics.DiagnosticSource.dll
+G:\tzofiya yosef\server\API\bin\System.Memory.dll
+G:\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.dll
+G:\tzofiya yosef\server\API\bin\System.Numerics.Vectors.dll
+G:\tzofiya yosef\server\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\tzofiya yosef\server\API\bin\System.Text.Encodings.Web.dll
+G:\tzofiya yosef\server\API\bin\System.Threading.Tasks.Extensions.dll
+G:\tzofiya yosef\server\API\bin\System.Web.Cors.dll
+G:\tzofiya yosef\server\API\bin\System.Web.Helpers.dll
+G:\tzofiya yosef\server\API\bin\System.Web.Http.Cors.dll
+G:\tzofiya yosef\server\API\bin\System.Web.Http.dll
+G:\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.dll
+G:\tzofiya yosef\server\API\bin\System.Web.Mvc.dll
+G:\tzofiya yosef\server\API\bin\System.Web.Optimization.dll
+G:\tzofiya yosef\server\API\bin\System.Web.Razor.dll
+G:\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.dll
+G:\tzofiya yosef\server\API\bin\System.Web.WebPages.dll
+G:\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.dll
+G:\tzofiya yosef\server\API\bin\WebGrease.dll
+G:\tzofiya yosef\server\API\bin\DAL.dll
+G:\tzofiya yosef\server\API\bin\BLL.pdb
+G:\tzofiya yosef\server\API\bin\DTO.pdb
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Cors.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Http.Features.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.ObjectPool.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Options.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.Extensions.Primitives.xml
+G:\tzofiya yosef\server\API\bin\Microsoft.Net.Http.Headers.xml
+G:\tzofiya yosef\server\API\bin\System.Buffers.xml
+G:\tzofiya yosef\server\API\bin\System.Diagnostics.DiagnosticSource.xml
+G:\tzofiya yosef\server\API\bin\System.Memory.xml
+G:\tzofiya yosef\server\API\bin\System.Net.Http.Formatting.xml
+G:\tzofiya yosef\server\API\bin\System.Numerics.Vectors.xml
+G:\tzofiya yosef\server\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\tzofiya yosef\server\API\bin\System.Text.Encodings.Web.xml
+G:\tzofiya yosef\server\API\bin\System.Threading.Tasks.Extensions.xml
+G:\tzofiya yosef\server\API\bin\System.Web.Http.xml
+G:\tzofiya yosef\server\API\bin\System.Web.Http.Cors.xml
+G:\tzofiya yosef\server\API\bin\Newtonsoft.Json.xml
+G:\tzofiya yosef\server\API\bin\System.Web.Helpers.xml
+G:\tzofiya yosef\server\API\bin\System.Web.Http.WebHost.xml
+G:\tzofiya yosef\server\API\bin\System.Web.Mvc.xml
+G:\tzofiya yosef\server\API\bin\System.Web.Optimization.xml
+G:\tzofiya yosef\server\API\bin\System.Web.Razor.xml
+G:\tzofiya yosef\server\API\bin\System.Web.WebPages.xml
+G:\tzofiya yosef\server\API\bin\System.Web.WebPages.Deployment.xml
+G:\tzofiya yosef\server\API\bin\System.Web.WebPages.Razor.xml
+G:\tzofiya yosef\server\API\bin\Antlr3.Runtime.pdb
+G:\tzofiya yosef\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\tzofiya yosef\server\API\bin\DAL.pdb
+G:\tzofiya yosef\server\API\obj\Debug\API.csproj.AssemblyReference.cache
+G:\tzofiya yosef\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+G:\tzofiya yosef\server\API\obj\Debug\API.csproj.CopyComplete
+G:\tzofiya yosef\server\API\obj\Debug\API.dll
+G:\tzofiya yosef\server\API\obj\Debug\API.pdb
+D:\tzofiya yosef\server\API\bin\EntityFramework.dll
+D:\tzofiya yosef\server\API\bin\DAL.dll.config
+D:\tzofiya yosef\server\API\bin\EntityFramework.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\obj\Debug\API.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\obj\Debug\API.pdb
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\API.dll.config
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\API.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\API.pdb
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\csc.exe
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\csc.exe.config
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\csc.rsp
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\csi.exe
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\csi.exe.config
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\csi.rsp
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.AppContext.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Console.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Net.Http.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\vbc.exe
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\vbc.exe.config
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\vbc.rsp
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Antlr3.Runtime.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\BLL.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\DTO.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Options.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Buffers.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.ComponentModel.Annotations.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Memory.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Net.Http.Formatting.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Text.Encodings.Web.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Cors.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Helpers.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Http.Cors.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Http.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Http.WebHost.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Mvc.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Optimization.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Razor.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.WebPages.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\WebGrease.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\DAL.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\EntityFramework.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\BLL.pdb
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\DTO.pdb
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Options.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Buffers.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Memory.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Net.Http.Formatting.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Text.Encodings.Web.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Http.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Http.Cors.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Newtonsoft.Json.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Helpers.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Http.WebHost.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Mvc.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Optimization.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.Razor.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.WebPages.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Antlr3.Runtime.pdb
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\DAL.pdb
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\DAL.dll.config
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\bin\EntityFramework.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\API.dll.config
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\API.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\API.pdb
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\csc.exe
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\csc.exe.config
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\csc.rsp
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\csi.exe
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\csi.exe.config
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\csi.rsp
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.AppContext.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Console.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Net.Http.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\vbc.exe
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\vbc.exe.config
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\vbc.rsp
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Antlr3.Runtime.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\BLL.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\DTO.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Options.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Newtonsoft.Json.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Buffers.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.ComponentModel.Annotations.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Memory.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Net.Http.Formatting.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Numerics.Vectors.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Text.Encodings.Web.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Cors.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Helpers.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Http.Cors.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Http.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Http.WebHost.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Mvc.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Optimization.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Razor.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.WebPages.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\WebGrease.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\DAL.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\EntityFramework.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\BLL.pdb
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\DTO.pdb
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Options.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Buffers.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Memory.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Net.Http.Formatting.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Numerics.Vectors.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Text.Encodings.Web.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Http.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Http.Cors.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Newtonsoft.Json.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Helpers.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Http.WebHost.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Mvc.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Optimization.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.Razor.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.WebPages.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Antlr3.Runtime.pdb
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\DAL.pdb
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\DAL.dll.config
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\bin\EntityFramework.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\obj\Debug\API.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\API\obj\Debug\API.pdb

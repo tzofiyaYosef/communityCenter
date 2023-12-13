@@ -1,0 +1,69 @@
+@media print{
+    form{
+        display: none;
+    }
+}
+
+@media screen and (max-width:600px) {
+    main{
+        grid-column: 1/4;
+    }
+    header{
+        flex-wrap: wrap;
+    }
+
+    header h1{
+        flex-basis: 0;
+    }
+
+    .big-link{
+        flex-direction: column;
+    }
+    
+    .big-link, .big-link:nth-child(2){
+        flex-direction: column;
+    }
+
+    section{
+        display: flex;
+        grid-column: 1/4;
+    }
+
+    section#right{
+        grid-row: 4;
+        grid-column: 1/4;
+    }
+
+    section#left{
+        grid-row: 5;
+        grid-column: 1/4;
+    }
+
+    /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+
+    .col-25, .col-75, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+
+    footer{
+        grid-row: 6;
+    }
+
+    /* Responsive layout - when the screen is less than 650px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 650px) {
+    .col {
+      width: 100%;
+      margin-top: 0;
+    }
+    /* hide the vertical line */
+    .vl {
+      display: none;
+    }
+    /* show the hidden text on small screens */
+    .hide-md-lg {
+      display: block;
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>מנהל המערכת</title>
+    <link rel="shortcut icon" href="https://www.netivim.org.il/content/images/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="media.css">
+    <link rel="stylesheet" href="prophil.css">
+    <link rel="stylesheet" href="manager.css">
+    <script src="manager.js"></script>
+</head>
+
+<body>
+    <div id="container">
+        <header id="stick">
+            <a href="manager.html">
+                <figure id="logo">
+                    <img src="https://www.netivim.org.il/content/images/logo.png" alt="">
+                </figure>
+            </a>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="manegerEvent.html">הוספה אירוע</a>
+                    </li>
+                    <li>
+                        <a href="addManager.html">הוספת מנהל</a>
+                    </li>
+                    <li class="drop">
+                        <a class="deop-header" href="managerAllEvaents.html">הצגת כל האירועים</a>
+                    </li>
+                    <li class="drop">
+                        <a class="deop-header" href="allQoustion.html">פניות הציבור</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <div class="containerPlace">
+            <form action="/action_page.php">
+                <div class="row">
+                    <div class="col">
+                        <input type="text" id="4" placeholder="ת.ז." required onchange="kelet(event)">
+                        <input type="text" id="0" placeholder="שם פרטי" required>
+                        <input type="text" id="1" placeholder="שם משפחה" required>
+                        <input type="text" id="2" placeholder="מס' פלאפון" required onchange="kelet(event)">
+                        <input type="gmail" id="3" placeholder="אימייל" required onchange="kelet(event)">
+                        <input type="text" id="5" placeholder="משכורת" required>
+                        <input type="password" id="6" placeholder="סיסמא" required>
+                        <input type="password" id="7" placeholder="אימות סיסמא" required>
+                        <input type="submit" id="signUp" value="הוסף מנהל" onclick="addManager()">
+                        <br>
+                    </div>
+                    <!-- <div id="ex">
+                    <div class="row">
+                        <div class="col">
+                            <a href="index.html" style="color:white" class="btn"></a>
+                        </div>
+                    </div>
+                </div> -->
+                </div>
+            </form>
+        </div>
+        <footer>
+            <br>
+            &copy;tzofiya yosef
+            <br>
+            <br>
+        </footer>
+        <script src="script.js"></script>
+</body>
+
+</html>

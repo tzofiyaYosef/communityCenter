@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CommunityCenterDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Contacts">
+    <Key>
+      <PropertyRef Name="contactId" />
+    </Key>
+    <Property Name="contactId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Question" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Answer" Type="nvarchar" MaxLength="2000" />
+    <Property Name="GmailId" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="Gmail" />
+    </Key>
+    <Property Name="Gmail" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MainEvent">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="EventDate" Type="datetime" Nullable="false" />
+    <Property Name="NumOfParticipance" Type="int" Nullable="false" />
+    <Property Name="CostPerParticipance" Type="int" Nullable="false" />
+    <Property Name="EventCost" Type="float" Nullable="false" />
+    <Property Name="MinAge" Type="int" />
+    <Property Name="MaxAge" Type="int" />
+    <Property Name="Gender" Type="nvarchar" MaxLength="11" Nullable="false" />
+    <Property Name="ImagePath" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="MainEventToCustomer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdEvent" Type="int" Nullable="false" />
+    <Property Name="IdCustomer" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Maneger">
+    <Key>
+      <PropertyRef Name="Gmail" />
+    </Key>
+    <Property Name="Gmail" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Salary" Type="float" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Id" Type="nvarchar" MaxLength="9" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="Gmail" />
+    </Key>
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="10" />
+    <Property Name="Gmail" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Speaches">
+    <Key>
+      <PropertyRef Name="EventId" />
+    </Key>
+    <Property Name="EventId" Type="int" Nullable="false" />
+    <Property Name="NameLecturer" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Trip">
+    <Key>
+      <PropertyRef Name="EventId" />
+    </Key>
+    <Property Name="LeavingTime" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="ReturnTime" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="Location" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="EventId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Contacts_ToCustomer">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+    <End Role="Contacts" Type="Self.Contacts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Gmail" />
+      </Principal>
+      <Dependent Role="Contacts">
+        <PropertyRef Name="GmailId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Customer_ToPerson">
+    <End Role="Person" Type="Self.Person" Multiplicity="1" />
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="Gmail" />
+      </Principal>
+      <Dependent Role="Customer">
+        <PropertyRef Name="Gmail" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MainEventToCustomer_ToCustomer">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+    <End Role="MainEventToCustomer" Type="Self.MainEventToCustomer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Gmail" />
+      </Principal>
+      <Dependent Role="MainEventToCustomer">
+        <PropertyRef Name="IdCustomer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MainEventToCustomer_ToMainEvent">
+    <End Role="MainEvent" Type="Self.MainEvent" Multiplicity="1" />
+    <End Role="MainEventToCustomer" Type="Self.MainEventToCustomer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MainEvent">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="MainEventToCustomer">
+        <PropertyRef Name="IdEvent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Maneger_ToPerson">
+    <End Role="Person" Type="Self.Person" Multiplicity="1" />
+    <End Role="Maneger" Type="Self.Maneger" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="Gmail" />
+      </Principal>
+      <Dependent Role="Maneger">
+        <PropertyRef Name="Gmail" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Speaches_ToSpeaches">
+    <End Role="MainEvent" Type="Self.MainEvent" Multiplicity="1" />
+    <End Role="Speaches" Type="Self.Speaches" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="MainEvent">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Speaches">
+        <PropertyRef Name="EventId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Trip_ToMainEvent">
+    <End Role="MainEvent" Type="Self.MainEvent" Multiplicity="1" />
+    <End Role="Trip" Type="Self.Trip" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="MainEvent">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Trip">
+        <PropertyRef Name="EventId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CommunityCenterDBModelStoreContainer">
+    <EntitySet Name="Contacts" EntityType="Self.Contacts" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MainEvent" EntityType="Self.MainEvent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MainEventToCustomer" EntityType="Self.MainEventToCustomer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Maneger" EntityType="Self.Maneger" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Person" EntityType="Self.Person" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Speaches" EntityType="Self.Speaches" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Trip" EntityType="Self.Trip" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Contacts_ToCustomer" Association="Self.FK_Contacts_ToCustomer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Contacts" EntitySet="Contacts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Customer_ToPerson" Association="Self.FK_Customer_ToPerson">
+      <End Role="Person" EntitySet="Person" />
+      <End Role="Customer" EntitySet="Customer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MainEventToCustomer_ToCustomer" Association="Self.FK_MainEventToCustomer_ToCustomer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="MainEventToCustomer" EntitySet="MainEventToCustomer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MainEventToCustomer_ToMainEvent" Association="Self.FK_MainEventToCustomer_ToMainEvent">
+      <End Role="MainEvent" EntitySet="MainEvent" />
+      <End Role="MainEventToCustomer" EntitySet="MainEventToCustomer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Maneger_ToPerson" Association="Self.FK_Maneger_ToPerson">
+      <End Role="Person" EntitySet="Person" />
+      <End Role="Maneger" EntitySet="Maneger" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Speaches_ToSpeaches" Association="Self.FK_Speaches_ToSpeaches">
+      <End Role="MainEvent" EntitySet="MainEvent" />
+      <End Role="Speaches" EntitySet="Speaches" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Trip_ToMainEvent" Association="Self.FK_Trip_ToMainEvent">
+      <End Role="MainEvent" EntitySet="MainEvent" />
+      <End Role="Trip" EntitySet="Trip" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

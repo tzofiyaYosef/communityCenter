@@ -1,0 +1,175 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Tahoma;
+    margin: 1;
+}
+
+
+/*start grid*/
+#container {
+    /* display: grid; */
+    grid-template-rows: repeat(4, auto);
+}
+
+/*end grid*/
+
+header {
+    z-index: 10;
+    display: flex;
+    background-image: url(https://www.netivim.org.il/content/images/header-background.png);
+    background-size: 100% 100%;
+    color: #000;
+    height: 170px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+}
+
+#logo>img {
+    width: 20%;
+    position: fixed;
+    right: 2%;
+    margin-top: 1%;
+}
+
+/* start nav*/
+
+nav {
+    position: fixed;
+    right: 20%;
+    left: 20%;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 1;
+    margin-bottom: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    flex-grow: 1;
+    text-align: center;
+    border-left: 2px rgba(30, 112, 144, 0.692) solid;
+    flex-basis: 0;
+}
+
+nav ul li a {
+    color: rgba(33, 102, 129, 0.692);
+}
+
+nav a {
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav a:hover {
+    color: rgba(3, 57, 78, 0.671);
+    font-family: Tahoma;
+}
+
+nav ul.drop-content {
+    flex-direction: column;
+}
+
+.drop:hover .drop-content {
+    display: block;
+}
+
+.drop-content {
+    display: none;
+    position: absolute;
+    width: 100%;
+}
+
+.drop {
+    position: relative;
+}
+
+div img {
+    width: 100%;
+    margin-top: 5.5%;
+}
+
+div h1 {
+    color: red;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+/*end nav*/
+
+/* start main */
+
+main {
+    margin-top: 10%;
+    width: 100%;
+    /* display: flex; */
+}
+
+
+main>div {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    direction: rtl;
+}
+
+.big-link figure img {
+    width: 350px;
+    height: 350px;
+    display: block;
+    transition: all 2s;
+    padding: 8px;
+}
+
+.big-link figure img:hover {
+    transform: scale(1.2, 1.2);
+}
+
+#cart{
+    direction: ltr;
+    width: 7%;
+    height: 7%;
+    margin-left: 1.5%;
+    margin-top: 1%;
+    position: relative;
+    /* border-radius: 15px 15px 0px 0px; */
+}
+
+.numProduct{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 28px;
+    left: 46px;
+    padding: 1rem;
+    color: white;
+    z-index: 9;
+}
+
+#user{
+    margin-top: 1.9%;
+    color: rgba(33, 102, 129, 0.692);
+    text-decoration:none !important
+}
+
+/* .big-link h3 {
+    display: block;
+    text-align: center;
+} */
+
+/* end main */
+footer {
+    text-align: center;
+    background-color: rgba(33, 102, 129, 0.692);
+    margin-bottom: 0;
+}

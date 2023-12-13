@@ -1,0 +1,128 @@
+* {
+    box-sizing: border-box
+}
+
+/* style the container */
+.containerPlace {
+    margin: 15% 22% 2% 22%;
+    /* align-items: center; */
+    /* position: relative; */
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding-top: 2%;
+}
+
+/* style inputs and link buttons */
+input,
+.aa,
+.btn,
+.gender,
+textarea,
+select {
+    direction: rtl;
+    width: 20%;
+    padding: 15px;
+    border: none;
+    border-radius: 4px;
+    margin: 2% 7% 2% 5%;
+    opacity: 0.85;
+    display: inline-flex;
+    font-size: 15px;
+    line-height: 20px;
+    text-decoration: none;
+    /* remove underline from anchors */
+}
+
+.forgotPass {
+    text-align: center;
+}
+
+input:hover,
+.btn:hover {
+    opacity: 1;
+}
+
+/* style the submit button */
+input[type=button] {
+    /* display: block; */
+    background-color: #0468aa;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 2% !important;
+    margin-left: 5%;
+}
+
+input[type=submit]:hover {
+    background-color: rgba(33, 102, 129, 0.692);
+}
+
+/* Two-column layout */
+.col {
+    /* width: 70%; */
+    margin: auto;
+    padding: 0 50px;
+    margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* vertical line */
+.vl {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    border: 2px solid #ddd;
+    height: 175px;
+}
+
+/* text inside the vertical line */
+/* .inner {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    padding: 8px 10px;
+}
+
+/* hide some text on medium and large screens */
+/* .hide-md-lg {
+    display: none;
+}  */
+
+/* bottom container */
+.bottom-container {
+    text-align: center;
+    background-color: rgb(141, 138, 138);
+    border-radius: 0px 0px 4px 4px;
+    margin-bottom: 0;
+}
+
+.diffrent {
+    width: 86% !important;
+}
+
+#myFile {
+    width: 53% !important;
+}
+
+#speacheImg, #tripImg, .diffrent{
+    width: 50%;
+    height: 25%;
+    margin: 1.5% 7%;
+    /* display: inline-flex; */
+}
+
+.diff{
+    margin-top: 10% !important;
+}
+
+#speacheImg, #tripImg{
+    margin-right: 25% !important;
+}

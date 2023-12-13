@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CommunityCenterDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Contact">
+    <Key>
+      <PropertyRef Name="contactId" />
+    </Key>
+    <Property Name="contactId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Question" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Answer" Type="String" MaxLength="2000" FixedLength="false" Unicode="true" />
+    <Property Name="GmailId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Customer" Relationship="Self.FK_Contacts_ToCustomer" FromRole="Contacts" ToRole="Customer" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="Gmail" />
+    </Key>
+    <Property Name="Gmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Contacts" Relationship="Self.FK_Contacts_ToCustomer" FromRole="Customer" ToRole="Contacts" />
+    <NavigationProperty Name="Person" Relationship="Self.FK_Customer_ToPerson" FromRole="Customer" ToRole="Person" />
+    <NavigationProperty Name="MainEventToCustomers" Relationship="Self.FK_MainEventToCustomer_ToCustomer" FromRole="Customer" ToRole="MainEventToCustomer" />
+  </EntityType>
+  <EntityType Name="MainEvent">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="EventDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="NumOfParticipance" Type="Int32" Nullable="false" />
+    <Property Name="CostPerParticipance" Type="Int32" Nullable="false" />
+    <Property Name="EventCost" Type="Double" Nullable="false" />
+    <Property Name="MinAge" Type="Int32" />
+    <Property Name="MaxAge" Type="Int32" />
+    <Property Name="Gender" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ImagePath" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="MainEventToCustomers" Relationship="Self.FK_MainEventToCustomer_ToMainEvent" FromRole="MainEvent" ToRole="MainEventToCustomer" />
+    <NavigationProperty Name="Speach" Relationship="Self.FK_Speaches_ToSpeaches" FromRole="MainEvent" ToRole="Speaches" />
+    <NavigationProperty Name="Trip" Relationship="Self.FK_Trip_ToMainEvent" FromRole="MainEvent" ToRole="Trip" />
+  </EntityType>
+  <EntityType Name="MainEventToCustomer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdEvent" Type="Int32" Nullable="false" />
+    <Property Name="IdCustomer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Customer" Relationship="Self.FK_MainEventToCustomer_ToCustomer" FromRole="MainEventToCustomer" ToRole="Customer" />
+    <NavigationProperty Name="MainEvent" Relationship="Self.FK_MainEventToCustomer_ToMainEvent" FromRole="MainEventToCustomer" ToRole="MainEvent" />
+  </EntityType>
+  <EntityType Name="Maneger">
+    <Key>
+      <PropertyRef Name="Gmail" />
+    </Key>
+    <Property Name="Gmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Salary" Type="Double" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Id" Type="String" MaxLength="9" FixedLength="true" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Person" Relationship="Self.FK_Maneger_ToPerson" FromRole="Maneger" ToRole="Person" />
+    <NavigationProperty Name="Salary1" Relationship="Self.FK_Maneger_ToSalary" FromRole="Maneger" ToRole="Salary" />
+  </EntityType>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="Gmail" />
+    </Key>
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Gmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Customer" Relationship="Self.FK_Customer_ToPerson" FromRole="Person" ToRole="Customer" />
+    <NavigationProperty Name="Maneger" Relationship="Self.FK_Maneger_ToPerson" FromRole="Person" ToRole="Maneger" />
+  </EntityType>
+  <EntityType Name="Salary">
+    <Key>
+      <PropertyRef Name="Price" />
+    </Key>
+    <Property Name="Price" Type="Double" Nullable="false" />
+    <Property Name="Bonus" Type="Double" />
+    <Property Name="Hour" Type="Double" />
+    <NavigationProperty Name="Manegers" Relationship="Self.FK_Maneger_ToSalary" FromRole="Salary" ToRole="Maneger" />
+  </EntityType>
+  <EntityType Name="Speach">
+    <Key>
+      <PropertyRef Name="EventId" />
+    </Key>
+    <Property Name="EventId" Type="Int32" Nullable="false" />
+    <Property Name="NameLecturer" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="MainEvent" Relationship="Self.FK_Speaches_ToSpeaches" FromRole="Speaches" ToRole="MainEvent" />
+  </EntityType>
+  <EntityType Name="Trip">
+    <Key>
+      <PropertyRef Name="EventId" />
+    </Key>
+    <Property Name="LeavingTime" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ReturnTime" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Location" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="EventId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="MainEvent" Relationship="Self.FK_Trip_ToMainEvent" FromRole="Trip" ToRole="MainEvent" />
+  </EntityType>
+  <Association Name="FK_Contacts_ToCustomer">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+    <End Role="Contacts" Type="Self.Contact" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Gmail" />
+      </Principal>
+      <Dependent Role="Contacts">
+        <PropertyRef Name="GmailId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Customer_ToPerson">
+    <End Role="Person" Type="Self.Person" Multiplicity="1" />
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="Gmail" />
+      </Principal>
+      <Dependent Role="Customer">
+        <PropertyRef Name="Gmail" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MainEventToCustomer_ToCustomer">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+    <End Role="MainEventToCustomer" Type="Self.MainEventToCustomer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Gmail" />
+      </Principal>
+      <Dependent Role="MainEventToCustomer">
+        <PropertyRef Name="IdCustomer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MainEventToCustomer_ToMainEvent">
+    <End Role="MainEvent" Type="Self.MainEvent" Multiplicity="1" />
+    <End Role="MainEventToCustomer" Type="Self.MainEventToCustomer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MainEvent">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="MainEventToCustomer">
+        <PropertyRef Name="IdEvent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Speaches_ToSpeaches">
+    <End Role="MainEvent" Type="Self.MainEvent" Multiplicity="1" />
+    <End Role="Speaches" Type="Self.Speach" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="MainEvent">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Speaches">
+        <PropertyRef Name="EventId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Trip_ToMainEvent">
+    <End Role="MainEvent" Type="Self.MainEvent" Multiplicity="1" />
+    <End Role="Trip" Type="Self.Trip" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="MainEvent">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Trip">
+        <PropertyRef Name="EventId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Maneger_ToPerson">
+    <End Role="Person" Type="Self.Person" Multiplicity="1" />
+    <End Role="Maneger" Type="Self.Maneger" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="Gmail" />
+      </Principal>
+      <Dependent Role="Maneger">
+        <PropertyRef Name="Gmail" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Maneger_ToSalary">
+    <End Role="Salary" Type="Self.Salary" Multiplicity="1" />
+    <End Role="Maneger" Type="Self.Maneger" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Salary">
+        <PropertyRef Name="Price" />
+      </Principal>
+      <Dependent Role="Maneger">
+        <PropertyRef Name="Salary" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CommunityCenterDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Contacts" EntityType="Self.Contact" />
+    <EntitySet Name="Customers" EntityType="Self.Customer" />
+    <EntitySet Name="MainEvents" EntityType="Self.MainEvent" />
+    <EntitySet Name="MainEventToCustomers" EntityType="Self.MainEventToCustomer" />
+    <EntitySet Name="Manegers" EntityType="Self.Maneger" />
+    <EntitySet Name="People" EntityType="Self.Person" />
+    <EntitySet Name="Salaries" EntityType="Self.Salary" />
+    <EntitySet Name="Speaches" EntityType="Self.Speach" />
+    <EntitySet Name="Trips" EntityType="Self.Trip" />
+    <AssociationSet Name="FK_Contacts_ToCustomer" Association="Self.FK_Contacts_ToCustomer">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="Contacts" EntitySet="Contacts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Customer_ToPerson" Association="Self.FK_Customer_ToPerson">
+      <End Role="Person" EntitySet="People" />
+      <End Role="Customer" EntitySet="Customers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MainEventToCustomer_ToCustomer" Association="Self.FK_MainEventToCustomer_ToCustomer">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="MainEventToCustomer" EntitySet="MainEventToCustomers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MainEventToCustomer_ToMainEvent" Association="Self.FK_MainEventToCustomer_ToMainEvent">
+      <End Role="MainEvent" EntitySet="MainEvents" />
+      <End Role="MainEventToCustomer" EntitySet="MainEventToCustomers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Speaches_ToSpeaches" Association="Self.FK_Speaches_ToSpeaches">
+      <End Role="MainEvent" EntitySet="MainEvents" />
+      <End Role="Speaches" EntitySet="Speaches" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Trip_ToMainEvent" Association="Self.FK_Trip_ToMainEvent">
+      <End Role="MainEvent" EntitySet="MainEvents" />
+      <End Role="Trip" EntitySet="Trips" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Maneger_ToPerson" Association="Self.FK_Maneger_ToPerson">
+      <End Role="Person" EntitySet="People" />
+      <End Role="Maneger" EntitySet="Manegers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Maneger_ToSalary" Association="Self.FK_Maneger_ToSalary">
+      <End Role="Salary" EntitySet="Salaries" />
+      <End Role="Maneger" EntitySet="Manegers" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

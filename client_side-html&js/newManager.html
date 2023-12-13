@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>מנהל המערכת</title>
+    <link rel="shortcut icon" href="https://www.netivim.org.il/content/images/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="media.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="indexx.css">
+    <script src="manager.js"></script>
+</head>
+
+<body onload="init()">
+    <div id="container">
+        <header id="stick">
+            <a href="" id="user"></a>
+            <a href="manager.html">
+                <figure id="logo">
+                    <img src="https://www.netivim.org.il/content/images/logo.png" alt="">
+                </figure>
+            </a>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.html" id="join">התחברות</a>
+                    </li>
+                    <li>
+                        <a href="manegerEvent.html">הוספה אירוע</a>
+                    </li>
+                    <li>
+                        <a href="newManager.html">הוספת מנהל</a>
+                    </li>
+                    <li class="drop">
+                        <a class="deop-header" href="managerAllEvaents.html">הצגת כל האירועים</a>
+                    </li>
+                    <li class="drop">
+                        <a class="deop-header" href="allQoustion.html">פניות הציבור</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <div class="containerPlace manager">
+            <form action="/action_page.php">
+                <div class="row">
+                    <div class="col">
+                        <input type="text" id="0" placeholder="שם פרטי" required>
+                        <input type="text" id="1" placeholder="שם משפחה" required>
+                        <input type="text" id="2" placeholder="פלאפון" required>
+                        <input type="email" id="3" placeholder="מייל" required>
+                        <input type="text" id="4" placeholder="ת.ז" required>
+                        <input type="text" id="5" placeholder="משכורת" required>
+                        <input type="password" id="6" placeholder="סיסמה" required>
+                        <input type="password" id="7" placeholder="אימות סיסמה" required>
+                        <input type="button" id="signUp" value="הירשם" onclick="addManager()">
+                        <br>
+                    </div>
+                    <div id="ex">
+                        <div class="row">
+                            <div class="col">
+                                <a href="index.html" style="color:white" id="msg"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <footer>
+            <br>
+            &copy;tzofiya yosef
+            <br>
+            <br>
+        </footer>
+    </div>
+</body>
+
+</html>

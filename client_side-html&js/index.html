@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>נתיבים</title>
+  <link rel="shortcut icon" href="https://www.netivim.org.il/content/images/logo.png" type="image/x-icon">
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="media.css">
+  <script src="script.js"></script>
+  <link rel="stylesheet" href="indexx.css">
+  <link rel="stylesheet" href="footer.css">
+</head>
+
+<body onload="init()">
+  <div id="container">
+    <header id="stick">
+      <a href="user.html">
+        <figure id="logo">
+          <img src="https://www.netivim.org.il/content/images/logo.png" alt="">
+        </figure>
+      </a>
+    </header>
+    <!-- <div id="button">
+            <a href="maneger.html"><button id="maneger" type="button">למנהל המערכת</button></a>
+            <a href="user.html"><button id="user" type="button">למשתמש</button></a>
+        </div>  -->
+    <div class="containerPlace">
+      <form action="/action_page.php">
+        <div class="row">
+          <div class="col">
+            <input type="email" id="gmail" placeholder='דוא"ל' required>
+            <input type="text" id="username" placeholder="שם משתמש" required>
+            <input type="password" id="password" placeholder="סיסמה" required>
+            <input type="button" value="התחבר" onclick="login()">
+            <a href="newPassword.html" class="forgotPass"></a>
+          </div>
+          <div class="bottom-container">
+            <div class="row">
+              <div class="col">
+                <a href="newUser.html" style="color:white" class="btn">הירשם</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <footer>
+      <br>
+      &copy;tzofiya yosef
+      <br>
+      <br>
+    </footer>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,57 @@
+#containerPlace,
+#containerDiff {
+    width: 80%;
+    /* height: 50%; */
+    display: inline-flex;
+    direction: rtl;
+    padding: 0 !important;
+    margin: 1% 7% 2% 10% !important;
+    background-color: #f2f2f2;
+}
+
+.imgD {
+    max-width: 430px;
+    /* padding-right: 10%; */
+    /* margin-left: 55% !important; */
+    display: inline-flex;
+    margin: 5% 5% 5% 10%;
+    border-left-width: 13px;
+    border-left-style: solid;
+}
+
+.titleEvent {
+    border-bottom-style: solid;
+    border-bottom-width: 7px;
+    padding-bottom: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    font-weight: 400;
+    font-size: 36px;
+    border-color:black;
+    /* margin-top: 7px; */
+}
+
+.allBuy {
+    font-size: larger;
+}
+
+.detalis {
+    position: relative;
+    min-height: 1px;
+    padding-left: 25px;
+    padding-right: 25px;
+    float: right;
+    /* width: 50%; */
+}
+
+.ddd{
+    margin-top: 7%;
+}
+
+.btn-add{
+    background-color: black !important;
+    color: white !important;
+    font-size: larger;
+    margin-top: 2%;
+    cursor: pointer;
+}

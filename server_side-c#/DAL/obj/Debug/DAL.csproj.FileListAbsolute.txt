@@ -1,0 +1,74 @@
+C:\Users\Comp10\Desktop\server\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Comp10\Desktop\server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Comp10\Desktop\server\DAL\bin\Debug\DAL.dll
+C:\Users\Comp10\Desktop\server\DAL\bin\Debug\DAL.pdb
+C:\Users\Comp10\Desktop\server\DAL\obj\Debug\DAL.dll
+C:\Users\Comp10\Desktop\server\DAL\obj\Debug\DAL.pdb
+W:\tzofiya yosef\server\DAL\bin\Debug\DAL.dll
+W:\tzofiya yosef\server\DAL\bin\Debug\DAL.pdb
+W:\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+W:\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+W:\tzofiya yosef\server\DAL\obj\Debug\DAL.dll
+W:\tzofiya yosef\server\DAL\obj\Debug\DAL.pdb
+F:\tzofiya yosef\server\DAL\bin\Debug\DAL.dll
+F:\tzofiya yosef\server\DAL\bin\Debug\DAL.pdb
+F:\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\tzofiya yosef\server\DAL\obj\Debug\DAL.dll
+F:\tzofiya yosef\server\DAL\obj\Debug\DAL.pdb
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DAL\bin\Debug\DAL.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DAL\bin\Debug\DAL.pdb
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DAL\obj\Debug\DAL.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DAL\obj\Debug\DAL.pdb
+E:\tzofiya yosef\server\DAL\bin\Debug\DAL.dll
+E:\tzofiya yosef\server\DAL\bin\Debug\DAL.pdb
+E:\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\tzofiya yosef\server\DAL\obj\Debug\DAL.dll
+E:\tzofiya yosef\server\DAL\obj\Debug\DAL.pdb
+D:\tzofiya yosef\server\DAL\bin\Debug\DAL.dll
+D:\tzofiya yosef\server\DAL\bin\Debug\DAL.pdb
+D:\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\tzofiya yosef\server\DAL\obj\Debug\DAL.dll
+D:\tzofiya yosef\server\DAL\obj\Debug\DAL.pdb
+G:\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\tzofiya yosef\server\DAL\obj\Debug\DAL.dll
+G:\tzofiya yosef\server\DAL\obj\Debug\DAL.pdb
+G:\tzofiya yosef\server\DAL\bin\Debug\DAL.dll
+G:\tzofiya yosef\server\DAL\bin\Debug\DAL.pdb
+G:\tzofiya yosef\server\DAL\bin\Debug\DAL.dll.config
+G:\tzofiya yosef\server\DAL\bin\Debug\EntityFramework.dll
+G:\tzofiya yosef\server\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\tzofiya yosef\server\DAL\bin\Debug\EntityFramework.xml
+G:\tzofiya yosef\server\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\tzofiya yosef\server\DAL\bin\Debug\DAL.dll.config
+D:\tzofiya yosef\server\DAL\bin\Debug\EntityFramework.dll
+D:\tzofiya yosef\server\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\tzofiya yosef\server\DAL\bin\Debug\EntityFramework.xml
+D:\tzofiya yosef\server\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\tzofiya yosef\server\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DAL\obj\Debug\DAL.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DAL\obj\Debug\DAL.pdb
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DAL\bin\Debug\DAL.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DAL\bin\Debug\DAL.pdb
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DAL\bin\Debug\DAL.dll.config
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DAL\bin\Debug\DAL.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DAL\bin\Debug\DAL.pdb
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DAL\obj\Debug\DAL.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DAL\obj\Debug\DAL.pdb

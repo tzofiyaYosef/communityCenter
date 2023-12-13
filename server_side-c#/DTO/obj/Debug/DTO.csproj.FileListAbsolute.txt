@@ -1,0 +1,93 @@
+C:\Users\Comp10\Desktop\server\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Comp10\Desktop\server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Comp10\Desktop\server\DTO\bin\Debug\DTO.dll
+C:\Users\Comp10\Desktop\server\DTO\bin\Debug\DTO.pdb
+C:\Users\Comp10\Desktop\server\DTO\bin\Debug\DAL.dll
+C:\Users\Comp10\Desktop\server\DTO\bin\Debug\DAL.pdb
+C:\Users\Comp10\Desktop\server\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Comp10\Desktop\server\DTO\obj\Debug\DTO.dll
+C:\Users\Comp10\Desktop\server\DTO\obj\Debug\DTO.pdb
+W:\tzofiya yosef\server\DTO\bin\Debug\DTO.dll
+W:\tzofiya yosef\server\DTO\bin\Debug\DTO.pdb
+W:\tzofiya yosef\server\DTO\bin\Debug\DAL.dll
+W:\tzofiya yosef\server\DTO\bin\Debug\DAL.pdb
+W:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+W:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+W:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.CopyComplete
+W:\tzofiya yosef\server\DTO\obj\Debug\DTO.dll
+W:\tzofiya yosef\server\DTO\obj\Debug\DTO.pdb
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DTO\obj\Debug\DTO.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DTO\obj\Debug\DTO.pdb
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DTO\bin\Debug\DTO.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DTO\bin\Debug\DTO.pdb
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DTO\bin\Debug\DAL.dll
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DTO\bin\Debug\DAL.pdb
+C:\Users\User\OneDrive\שולחן העבודה\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\tzofiya yosef\server\DTO\bin\Debug\DTO.dll
+E:\tzofiya yosef\server\DTO\bin\Debug\DTO.pdb
+E:\tzofiya yosef\server\DTO\bin\Debug\DAL.dll
+E:\tzofiya yosef\server\DTO\bin\Debug\DAL.pdb
+E:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\tzofiya yosef\server\DTO\obj\Debug\DTO.dll
+E:\tzofiya yosef\server\DTO\obj\Debug\DTO.pdb
+D:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\tzofiya yosef\server\DTO\obj\Debug\DTO.dll
+D:\tzofiya yosef\server\DTO\obj\Debug\DTO.pdb
+D:\tzofiya yosef\server\DTO\bin\Debug\DTO.dll
+D:\tzofiya yosef\server\DTO\bin\Debug\DTO.pdb
+D:\tzofiya yosef\server\DTO\bin\Debug\DAL.dll
+D:\tzofiya yosef\server\DTO\bin\Debug\DAL.pdb
+D:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.CopyComplete
+F:\tzofiya yosef\server\DTO\bin\Debug\DTO.dll
+F:\tzofiya yosef\server\DTO\bin\Debug\DTO.pdb
+F:\tzofiya yosef\server\DTO\bin\Debug\DAL.dll
+F:\tzofiya yosef\server\DTO\bin\Debug\DAL.pdb
+F:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+F:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.CopyComplete
+F:\tzofiya yosef\server\DTO\obj\Debug\DTO.dll
+F:\tzofiya yosef\server\DTO\obj\Debug\DTO.pdb
+G:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+G:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\tzofiya yosef\server\DTO\obj\Debug\DTO.dll
+G:\tzofiya yosef\server\DTO\obj\Debug\DTO.pdb
+G:\tzofiya yosef\server\DTO\bin\Debug\DTO.dll
+G:\tzofiya yosef\server\DTO\bin\Debug\DTO.pdb
+G:\tzofiya yosef\server\DTO\bin\Debug\DAL.dll
+G:\tzofiya yosef\server\DTO\bin\Debug\DAL.pdb
+G:\tzofiya yosef\server\DTO\obj\Debug\DTO.csproj.CopyComplete
+G:\tzofiya yosef\server\DTO\bin\Debug\EntityFramework.dll
+G:\tzofiya yosef\server\DTO\bin\Debug\DAL.dll.config
+G:\tzofiya yosef\server\DTO\bin\Debug\EntityFramework.xml
+D:\tzofiya yosef\server\DTO\bin\Debug\EntityFramework.dll
+D:\tzofiya yosef\server\DTO\bin\Debug\DAL.dll.config
+D:\tzofiya yosef\server\DTO\bin\Debug\EntityFramework.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DTO\obj\Debug\DTO.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DTO\obj\Debug\DTO.pdb
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DTO\bin\Debug\DTO.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DTO\bin\Debug\DTO.pdb
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DTO\bin\Debug\DAL.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DTO\bin\Debug\EntityFramework.dll
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DTO\bin\Debug\DAL.pdb
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DTO\bin\Debug\DAL.dll.config
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DTO\bin\Debug\EntityFramework.xml
+C:\Users\User\OneDrive\שולחן העבודה\צופיהההה בהצלחההה\server\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DTO\bin\Debug\DTO.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DTO\bin\Debug\DTO.pdb
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DTO\bin\Debug\DAL.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DTO\bin\Debug\EntityFramework.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DTO\bin\Debug\DAL.pdb
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DTO\bin\Debug\DAL.dll.config
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DTO\bin\Debug\EntityFramework.xml
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DTO\obj\Debug\DTO.dll
+C:\Users\Comp10\Desktop\צופיהההה בהצלחההה\server\DTO\obj\Debug\DTO.pdb
